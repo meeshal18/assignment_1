@@ -6,6 +6,7 @@ if [$# -ne 1];
 then 
 #print statment
 echo  "This is funny";
+#in any other condition  show this statment
 else
 echo "This is Not funny";
 exit 1
